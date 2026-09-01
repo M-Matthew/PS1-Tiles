@@ -16,7 +16,7 @@ The app has an original initial animation, a timer, a blinking text and a specia
 
 ## VirusTotal Scan
 This app has been tested with VirusTotal. The results are available here: 
-[VirusTotal scan results](https://www.virustotal.com/gui/file/d17e9d07678b81de392a097152105743174f46b32bf38e60f051d8852c73b048?nocache=1](https://www.virustotal.com/gui/file-analysis/YzAwYzVjMjYyZTQ4ZTRhOGZkZTVhNGJiOWM3MzcwZTI6MTc4ODI4NTUzNQ==))
+[VirusTotal scan results](https://www.virustotal.com/gui/file/c186e81b986d2ad67514946d36f96ddcf74a3d29afe74b357f1b979dc39db896?nocache=1)
 
 <img width="1206" height="182" alt="VirusTotalScan" src="https://github.com/user-attachments/assets/1afe890c-1f1c-4d43-808e-156900c973ab" />
 <img width="356" height="63" alt="VirusTotalScan2" src="https://github.com/user-attachments/assets/9e946c62-98c1-4818-9c22-c0b0860d5630" />
