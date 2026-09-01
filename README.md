@@ -3,7 +3,7 @@ This app is a tiles game, which uses the pictures of the first PlayStation as th
 
 ## Description
 This is the third Android app I have ever made. Despite of the first two, this is a whole complete playable tiles game. 
-The app has an original initial animation, a timer, a blinking text and a special PlayStation dedicated loading page. A random music will accompany you during your reconstruction of the original image. Play the game more times: do you notice any difference?
+The app has an original initial animation, a timer, a blinking text and a special PlayStation dedicated loading page. Each color is also taken from the original PlayStation 1 logo. A random music will accompany you during your reconstruction of the original image. Play the game more times: do you notice any difference?
 
 ## Properties
 - Download and install the .APK file on your device.
